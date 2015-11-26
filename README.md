@@ -87,4 +87,8 @@ TOKEN: enter the token you chose in step 1), remember it has to be the same as y
 
 once you click ok you should see a message that says successful or something similar
 
-### Add 
+### Add the sandbox account to your WeChat account
+
+* Open WeChat on your mobile phone and go to Discover->Scan QR Code
+* On your developer page scroll down to the heading `Test account QR Code` and scan that QR Code
+* Now send a message to the account added to your phone under subscription accounts
