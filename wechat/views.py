@@ -88,4 +88,4 @@ class WeChatView(View):
 
     def on_message(self, message):
         # do something with the message here
-        raise NotImplementedError('You need to do something with the message recieved')
+        raise NotImplementedError('You need to do something with the message from WeChat')
