@@ -27,7 +27,9 @@ wechat view
 subclass the view in the wechat directory of this project
 
 ```python
-
+    
+    import xml.etree.ElementTree as ET
+    
     from wechat.views import WeChatView
 
 
