@@ -92,3 +92,4 @@ once you click ok you should see a message that says successful or something sim
 * Open WeChat on your mobile phone and go to Discover->Scan QR Code
 * On your developer page scroll down to the heading `Test account QR Code` and scan that QR Code
 * Now send a message to the account added to your phone under subscription accounts
+* Smile as you see your message come in your console
