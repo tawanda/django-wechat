@@ -9,7 +9,6 @@ from django.views.generic import View
 logger = logging.getLogger('wechat.api')
 
 
-# noinspection PyMethodMayBeStatic
 class WeChatView(View):
     """
     WeChat API
